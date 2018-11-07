@@ -21,7 +21,7 @@ You will be able to:
 
 The essay starts by providing a background on Bayesian and Frequentist approaches and arguments that usually come up while debating these approaches. Before diving any further into these arguments, the author provides a summary recap of the two approaches and sets up grounds for further debate. The essay provides common justifications for using these approaches and then critically analyzes when these approaches might fail in a practical analytical context. 
 
-The essay concludes with Author's opinions on how and when to use these methods to best exploit their potential. Following image highlights the key idea of how these approaches differ from e
+The essay concludes with Author's opinions on how and when to use these methods to best exploit their potential. Following image highlights the key idea of how these approaches differ.
 
 ![](fb.gif)
 
