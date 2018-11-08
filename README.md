@@ -29,4 +29,4 @@ It is a simple essay (around 5 pages) and you should be able to read it within a
 
 ## Summary
 
-Congratulations, you've reahced the end of this section!
+Congratulations, you've reached the end of this section!
